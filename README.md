@@ -6,9 +6,9 @@ open the folder in command prompt in windows where the archery.java file is loca
 Be sure keep all files in a single folder and in one directory
 
 First Compile using
-javac arcgame.java
+"javac arcgame.java"
 
 then run using
-java arcgame
+"java arcgame"
 
 Note: Be sure you already have installed java and configured it :)
